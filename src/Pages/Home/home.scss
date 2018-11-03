@@ -1,0 +1,27 @@
+:global {
+    #root{
+        width: 1024px;
+        margin: 0 auto;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        overflow: hidden;
+    }
+    #app {
+        min-height: 500px;
+    }
+    .second-right{
+        float: right;
+        width: 780px;
+    }
+}
+    .current-align {
+        border-bottom: 1px solid #e1e1e1;
+        line-height: 30px;
+    }
+    .current-align a{
+        color: #000;
+        margin: 0 5px;
+    }
+    .current-align a:hover{
+        color: #fa1a1a;
+    }
